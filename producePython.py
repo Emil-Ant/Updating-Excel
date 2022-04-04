@@ -1,5 +1,3 @@
-#! python 3
-# ProducePython.py - corrects costs in produce sales spreadsheet
 
 import openpyxl
 
